@@ -423,6 +423,6 @@ Then:
 
 ## 15. Author
 
-**Your Name**
+**Vipin Kumar**
 Data Engineer
-[LinkedIn](https://www.linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username) · your.email@example.com
+[LinkedIn](https://www.linkedin.com/in/vipin-kumar8896) · [GitHub](https://github.com/your-username) · your.email@example.com
